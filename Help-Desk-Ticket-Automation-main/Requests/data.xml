@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<requests>
+    <request>
+        <contact>Er Some</contact>
+        <email>0005525s6s1241@gmail.com</email>
+        <subject>Big  Mistakes</subject>
+    </request>
+    
+    <request>
+        <contact>Jane Doe</contact>
+        <email>janedoe@hotmail.com</email>
+        <subject>Jane Doe Subject</subject>
+    </request>
+    
+    <request>
+        <contact>Metin KONUK</contact>
+        <email>metinkonuk@hotmail.com</email>
+        <subject>Metin KONUK Subject</subject>
+    </request>
+    
+</requests>
