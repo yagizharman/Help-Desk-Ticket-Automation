@@ -1,10 +1,10 @@
 # Help-Desk-Ticket-Automation
-Finals project for Formal Languages ​​and Automata class
+Finals project for Formal Languages â€‹â€‹and Automata class
 
 Contributors:
 
-Bengisu �ahin
-Muhammet Eren S�me
+Bengisu Sahin
+Muhammet Eren Söme
 Metin Konuk 
-Ya��z Harman 
+Yagiz Harman 
 Hasan Yasen
